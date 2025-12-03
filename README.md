@@ -53,7 +53,7 @@ For defects requiring area (e.g., Spalling, Deteriorated Mortar):
 2.  Count the total number of white pixels in the mask (**A\_pixels**).
 3.  Apply the scale factor (squared):
 
-$$\text{Area (sq ft)} = \text{A\_pixels} \times (SF)^2$$
+$$\text{Area (sq ft)} = \text{A\pixels} \times (SF)^2$$
 
 ### B. Lineal Measurement (Lineal Feet)
 
@@ -63,7 +63,7 @@ For defects requiring length (e.g., Cracks):
 2.  Calculate the pixel length of that centerline (**L\_pixels**).
 3.  Apply the scale factor:
 
-$$\text{Length (lin ft)} = \text{L\_pixels} \times SF$$
+$$\text{Length (lin ft)} = \text{L\pixels} \times SF$$
 
 -----
 
