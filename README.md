@@ -27,7 +27,7 @@ The Ollama model's output should be designed to feed directly into quantificatio
 
 ## 3\. The Core Challenge: Pixel-to-Real-World Calibration 📏
 
-This is the most critical step for **quantitative analysis**. Since images are 2D and subject to perspective distortion, you must introduce a calibration step to convert pixel counts (Area and Lineal Feet) into real-world units.
+This is the most critical step for **quantitative analysis**. Since images are 2D and subject to perspective distortion, we must introduce a calibration step to convert pixel counts (Area and Lineal Feet) into real-world units.
 
 The simplest, most robust 2D method is using **Reference Objects** and **Homography**.
 
@@ -35,7 +35,7 @@ The simplest, most robust 2D method is using **Reference Objects** and **Homogra
 
 2.  **Homography/Perspective Correction (OpenCV):** Use the Python library **OpenCV** to calculate the **Homography matrix**. This matrix uses the known dimensions of reference object (e.g., 12 inches) compared to its size in pixels (e.g., 200 pixels) to find the ratio for that specific plane in the image. This technique mathematically flattens the facade plane in the image, correcting for skew.
 
-3.  **Scale Factor Calculation:** Once corrected, you calculate the scale:
+3.  **Scale Factor Calculation:** Once corrected, we calculate the scale:
     $$\text{Scale Factor (SF)} = \frac{\text{Real-World Length}}{\text{Pixel Length}}$$
     $$\text{Example: } SF = \frac{1 \text{ ft}}{200 \text{ pixels}}$$
 
@@ -43,7 +43,7 @@ The simplest, most robust 2D method is using **Reference Objects** and **Homogra
 
 ## 4\. Python Quantification Script (NumPy & Pandas)
 
-Create a script that reads the JSON output from Ollama and processes it using the calculated scale factor. You can run this script either on local PC or upload the JSON data to **Google Colab** to leverage its cloud resources for batch processing and visualization.
+Create a script that reads the JSON output from Ollama and processes it using the calculated scale factor. we can run this script either on local PC or upload the JSON data to **Google Colab** to leverage its cloud resources for batch processing and visualization.
 
 ### A. Area Measurement (Square Feet)
 
