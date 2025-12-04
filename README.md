@@ -1,4 +1,4 @@
-# ollama-facade-inspection-costing
+# Facade Inspection Costing
 
 ## 1\. Local AI Inference Engine Setup (PC & Ollama)
 
