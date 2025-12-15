@@ -1,0 +1,216 @@
+Table of Illustrations
+
+NYC Buildings // Glossary Facade Conditions // For Educational Purposes Only
+
+1 Intent, Scope and Purpose
+2 Organization of Illustrations
+3 Materials
+3.1 Masonry
+– 3.1.1 Brick Crazing
+– 3.1.2 Cracks in Brick Surface
+– 3.1.3 Staining/Soiling
+– 3.1.4 Erosion/Pitting/Abrasion of Brick Face
+– 3.1.5 Organic Growth
+– 3.1.6 Efflorescence
+– 3.1.7 Cryptoflorescence Spall
+– 3.1.8 Brick Spalling/Delaminating
+– 3.1.9 Brick Chipping/Spalling
+– 3.1.10 Peeling Of Paint or Stucco
+– 3.1.11 Brick Coving
+– 3.1.12 Wet Wall
+– 3.1.13 Mortar
+– 3.1.14 Slightly Eroded Mortar Joint
+– 3.1.15 Open/Eroded Mortar Joint
+– 3.1.16 Disintegrating Joint Mortar
+– 3.1.17 Missing Mortar From Joint
+– 3.1.18 Debonding of Masonry Units
+– 3.1.19 Mortar in Joint Reduced to Sand
+– 3.1.20 Loose/Detached Brick
+– 3.1.21 Improper Joint Repair (pointing)
+– 3.1.22 Lime Run
+– 3.1.23 Eroded/Missing Mortar in Stone Joint
+– 3.1.24 Cracks in Masonry Façades
+– 3.1.25 Size of Crack
+• 3.1.25.a Thin (Hairline) Crack in Masonry
+• 3.1.25.b Slight Vertical Crack in Masonry
+• 3.1.25.c Large Crack In Masonry
+• 3.1.25.d Crack in Masonry Unit Only
+– 3.1.26 Crack Orientation
+• 3.1.26.a Longitudinal Crack – Joint Only
+• 3.1.26.b Vertical Crack in Brick Masonry
+• 3.1.26.c Stepped Crack in Masonry Joint
+– 3.1.27 Separation Of Brick Masonry – Outer Wythe
+– 3.1.28 Improperly Repaired Crack
+– 3.1.29 Loose Masonry
+– 3.1.30 Crack In Stucco over Masonry
+– 3.1.31 Crack and Debonding of Stucco Over Masonry
+3.2 Concrete
+– 3.2.1 Cracks in Reinforced Concrete
+• 3.2.1.a Hairline Crack
+• 3.2.1.b Slight Crack
+• 3.2.1.c Large Crack
+– 3.2.2 Crack and Spall of Concrete around Steel Member
+– 3.2.3 Delaminating of Concrete over Reinforcement
+– 3.2.4 Pattern Cracking/Crazing of Concrete
+– 3.2.5 Honeycomb
+– 3.2.6 Scaling of Concrete (Topping)
+– 3.2.7 Exfoliation of Concrete
+– 3.2.8 Spalling - Cast Stone
+– 3.2.9 Crazed Cracking Cast Stone
+– 3.2.10 Peeling of Cast Stone Surface
+3.3 Terra-cotta
+– 3.3.1 Loss of Glaze
+– 3.3.2 Surface Crazing - Terra-cotta
+– 3.3.3 Directional Fine Cracking of Terra-cotta Surface
+– 3.3.4 Glaze/Surface Chip Terra-cotta
+– 3.3.5 Spalling Terra-cotta
+– 3.3.6 Crack in Load Bearing Terra-cotta Unit
+– 3.3.7 Missing Terra-cotta Unit
+– 3.3.8 Cracked and Fragmented Terra-cotta Units
+– 3.3.9 Broken Terra-cotta Unit
+3.4 Stone
+– 3.4.1 Crack in Stone
+• 3.4.1.a Crack in Various Types of Stones
+• 3.4.1.b Crack By Directionality
+– 3.4.2 Crack in Corner Stone
+– 3.4.3 Cracked and Fragmented Stone Unit
+– 3.4.4 Displacement/Bulging of Stone Panels
+– 3.4.5 Peeling/Delamination of Stone
+– 3.4.6 Gypsum Crust
+– 3.4.7 Erosion of Stone
+– 3.4.8 Spall in Stone
+– 3.4.9 Corrosion of Steel Anchorage/Insert
+– 3.4.10 Sugaring
+– 3.4.11 Bowing of Marble Panels
+3.5 Brownstone
+– 3.5.1 Disaggregating Brownstone
+– 3.5.2 Exfoliating/ Delaminating Brownstone
+– 3.5.3 Brownstone Scaling
+– 3.5.4 Sagging Brownstone Lintel
+– 3.5.5 Failure of Brownstone Repair Coating
+3.6 Metals and Corrosion
+– 3.6.1 Corroding Window Frame
+– 3.6.2 Corroding Veneer Anchor
+– 3.6.3 Galvanic Corrosion
+– 3.6.4 Pitting/Crevice Corrosion
+– 3.6.5 Loose, Flaking Paint
+– 3.6.6 Corrosion Effects – “Rust Jacking”
+4 Façade Elements
+4.1 Fenestration Framing
+– 4.1.1 Missing/Curling Sealant around Window Frame
+– 4.1.2 Gap In Sealant (Window Frame and Masonry)
+– 4.1.3 Missing Sealant at Sleeve
+– 4.1.4 Dried/Cracked Caulking Around Glass
+– 4.1.5 Open Caulk Joints
+– 4.1.6 Hanging or Loose Gasket At Window Frame
+– 4.1.7 Loose Trim at Window Frame
+– 4.1.8 Loose Louver Blade
+– 4.1.9 Deteriorated Window Frame (Wood)
+– 4.1.10 Wood Frame Separated from Brick and Displaced
+– 4.1.11 Cracked Parging At Window Jamb
+– 4.1.12 Cracked/Broken Glass
+4.2 Lintels/Sills
+– 4.2.1 Exfoliation of Slate Window Sills
+– 4.2.2 Cracked Cast Stone Window Sills
+– 4.2.3 Masonry Cracks Around Sill
+– 4.2.4 Corroding Lintel In Masonry (Isolated Lintels)
+– 4.2.5 Masonry Crack Due To Lintel Corrosion
+– 4.2.6 Bowed Steel Lintel
+– 4.2.7 Crack at Underside of Stone Lintel
+– 4.2.8 Loose, Flaking Paint at Steel Lintel/Frame
+– 4.2.9 Loss of Cast Stone Unit
+– 4.2.10 Crack of Masonry Jamb at Insert
+4.3 Parapets/Cornices
+– 4.3.1 Crazing Terra-cotta Camelback Coping
+- 4.3.2 Open Cross Joints Coping
+– 4.3.3 Failure of Sealant – Coping Stone Cross Joint
+– 4.3.4 Deformation of Metal Coping
+– 4.3.5 Misalignment of Coping Stone
+– 4.3.6 Loss of Mortar at Parapet (Roof Side)
+– 4.3.7 Diagonal Crack at Corner of Parapet
+– 4.3.8 Crack in Corner Masonry at High Parapet
+– 4.3.9 Leaning Parapet
+– 4.3.10 Stone Cornice Crack
+– 4.3.11 Loss of Cornice Metal Cover
+– 4.3.12 Corrosion of Sheet Metal Cornice
+– 4.3.13 Rot of Wood at Cornice
+– 4.3.14 Deterioration of Underside of Cornice
+4.4 Balconies And Railings
+– 4.4.1 Underside Balcony Spall/Crack
+– 4.4.2 Loose/Defective Intermediate Panel
+– 4.4.3 Balcony Sagging
+– 4.4.4 Failed Guard Panel
+– 4.4.5 Spalling Concrete at Underside of Post
+– 4.4.6 Concrete Spalling Around Inserts
+– 4.4.7 Concrete Spall at Anchor Bolts
+– 4.4.8 Delaminating of Concrete or Topping
+– 4.4.9 Handrail Connection Failures
+4.5 Other
+– 4.5.1 OTHER – Fire Escapes
+– 4.5.2 OTHER – Chimney Leaning
+– 4.5.3 OTHER – Slate Roof
+5 Traditional Envelope Systems
+5.1 Bearing Masonry
+– 5.1.1 Façade Bowing Inwards (or Outwards)
+– 5.1.2 Out of Plumb Bearing Masonry Wall
+– 5.1.3 Diagonal Cracks at Base of Bearing Masonry Building
+– 5.1.4 Diagonal Cracks at Spandrel
+– 5.1.5 Intersecting Diagonal Cracks – Connecting Opening
+– 5.1.6 Inverted V Crack at Lintels
+– 5.1.7 Crack at Bearing Masonry Arch Crown
+– 5.1.8 Vertical Crack in Bearing Masonry
+– 5.1.9 Vertical Crack at Building Corner
+– 5.1.10 Bulging of Bearing Masonry
+– 5.1.11 Bulge/Displacement of Bearing Masonry at Floor Level
+5.2 Transitional Masonry Facades
+– 5.2.1 Thin (Hairline) Crack in Transitional Façade
+– 5.2.2 Bulge at Parapet of Transitional Façade
+– 5.2.3 Crack at Parapet Along Spandrel Beam
+– 5.2.4 Crack Around Opening in Transitional Façade
+– 5.2.5 Vertical Corner Crack in Transitional Façade
+– 5.2.6 Multiple Vertical Cracks Along Corner of Transitional Façade
+– 5.2.7 Bulge and Crack at Face of Masonry
+– 5.2.8 Improper Repair of Corner Crack
+5.3 Brick Veneer Cavity Wall
+– 5.3.1 Clogged Weephole
+– 5.3.2 Rolling Block in Brick Veneer
+– 5.3.3 Buckled Veneer at Improper Joint
+– 5.3.4 Displacement and Crack of Veneer
+– 5.3.5 Mortar Joint Crack at Shelf Support of Brick Veneer
+– 5.3.6 Incipient Brick Spall at Shelf Support of Veneer
+– 5.3.7 Undulating Brick Veneer – Horizontal Bowing
+– 5.3.8 Vertical Cracks in Veneer at Corner
+– 5.3.9 Bowing Brick Veneer
+– 5.3.10 Rusted Lintel/Shelf Support of Brick Veneer
+– 5.3.11 Deterioration of Filler Material at Joint in Veneer
+– 5.3.12 Stepped Crack in Brick Veneer
+– 5.3.13 Brick Veneer Displaced off Supporting Shelf
+– 5.3.14 Vertical Cracks (distributed) in Brick Veneer
+– 5.3.15 Large Vertical Crack in Brick Veneer
+– 5.3.16 Improper Repair of Veneer at Corner
+5.4 Concrete Facades
+– 5.4.1 Delaminating of Concrete Facade
+– 5.4.2 Slippage Precast Concrete Panel
+– 5.4.3 Crack in Concrete Panel
+– 5.4.4 Surface Spalling of Precast Concrete Panel
+– 5.4.5 Crack at Joints of Precast Panels
+6 Modern Curtain Walls
+6.1 Metal and Glass Curtain Wall
+– 6.1.1 Broken/Cracked Glass of Curtain Wall
+– 6.1.2 Glass Defects
+– 6.1.3 Snap-on Trim Back Out
+– 6.1.4 Missing Decorative Trim of Curtain Wall
+– 6.1.5 Loose Snap-on Trim
+– 6.1.6 Mullion Deformed
+– 6.1.7 Condensation
+6.2 EIFS - Exterior Insulated Finishing Systems
+– 6.2.1 Sealant Joint Failure -EIFS
+– 6.2.2 Mitered Outside Corners of EPS Board -EIFS
+– 6.2.3 Cracking at Penetration Corners at EIFS
+– 6.2.4 Cracking Adjacent to EIFS Penetration
+6.3 Thin Brick Panels
+– 6.3.1 Sealant Joint Failure Thin Brick Panel
+– 6.3.2 Efflorescence Thin Brick Panel
+– 6.3.3 De-bonding of Individual Thin Brick.
+– 6.3.4 Bulging Brick Thin Brick Panel
+– 6.3.5 Stained Brick within Thin Panel
